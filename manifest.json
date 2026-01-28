@@ -1,0 +1,17 @@
+{
+  "name": "AestheTech CRM Pro",
+  "short_name": "AestheTech",
+  "description": "美容サロン機器販売・専売品管理AI CRM",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#FDFBFB",
+  "theme_color": "#1A1A1A",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/3662/3662817.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
